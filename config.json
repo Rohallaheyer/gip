@@ -1,0 +1,7 @@
+{
+    "Owner": "your id",
+    "token": "your token",
+    "prefix": "g!",
+    "everyoneMention": true,
+    "hostedBy": true
+}
